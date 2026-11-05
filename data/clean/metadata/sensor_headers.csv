@@ -1,0 +1,28 @@
+supplier,sensor_model,sensor_type,parameter,header,unit,is_logger_export_unit
+Thermo Scientific,5014i BAM,Beta Attenuation Monitor,Particulate Matter PM2.5,pm25_ug_m3,ug/m3,False
+Thermo Scientific,5014i BAM,Beta Attenuation Monitor,Particulate Matter PM2.5,pm25_ppm,ppm,True
+Thermo Scientific,5014i BAM,Beta Attenuation Monitor,Particulate Matter PM10,pm10_ug_m3,ug/m3,False
+Thermo Scientific,5014i BAM,Beta Attenuation Monitor,Particulate Matter PM10,pm10_ppm,ppm,True
+Met One Instruments,BAM-1020,Beta Attenuation Monitor,Particulate Matter PM2.5,pm25_ug_m3,ug/m3,False
+Met One Instruments,BAM-1020,Beta Attenuation Monitor,Particulate Matter PM2.5,pm25_ppm,ppm,True
+Met One Instruments,BAM-1020,Beta Attenuation Monitor,Particulate Matter PM10,pm10_ug_m3,ug/m3,False
+Met One Instruments,BAM-1020,Beta Attenuation Monitor,Particulate Matter PM10,pm10_ppm,ppm,True
+Horiba,APDA-372,Optical Aerosol Spectrometer,Particulate Matter PM2.5,pm25_ug_m3,ug/m3,False
+Horiba,APDA-372,Optical Aerosol Spectrometer,Particulate Matter PM10,pm10_ug_m3,ug/m3,False
+Ecotech,Serinus 10,UV Fluorescence,Sulfur Dioxide (SO2),so2_ug_m3,ug/m3,False
+Ecotech,Serinus 10,UV Fluorescence,Sulfur Dioxide (SO2),so2_ppm,ppm,True
+Ecotech,Serinus 30,Gas Filter Correlation (NDIR),Carbon Monoxide (CO),co_ug_m3,ug/m3,False
+Ecotech,Serinus 30,Gas Filter Correlation (NDIR),Carbon Monoxide (CO),co_ppm,ppm,True
+Ecotech,Serinus 40,Non-dispersive UV Photometry,Ozone (O3),o3_ug_m3,ug/m3,False
+Ecotech,Serinus 40,Non-dispersive UV Photometry,Ozone (O3),o3_ppm,ppm,True
+Ecotech,Serinus 44 / 60,Chemiluminescence,Nitrogen Dioxide (NO2),no2_ug_m3,ug/m3,False
+Ecotech,Serinus 44 / 60,Chemiluminescence,Nitrogen Dioxide (NO2),no2_ppm,ppm,True
+Aeroqual,AQS 1,Gas Sensitive Semiconductor (GSS) & Laser Particle Counter,Ambient Pollutant Suite,pm25_ug_m3,ug/m3,False
+Aeroqual,AQS 1,Gas Sensitive Semiconductor (GSS) & Laser Particle Counter,Ambient Pollutant Suite,pm10_ug_m3,ug/m3,False
+Aeroqual,AQS 1,Gas Sensitive Semiconductor (GSS) & Laser Particle Counter,Ambient Pollutant Suite,o3_ug_m3,ug/m3,False
+Aeroqual,AQS 1,Gas Sensitive Semiconductor (GSS) & Laser Particle Counter,Ambient Pollutant Suite,no2_ug_m3,ug/m3,False
+Vaisala,WXT536,Capacitive Thin Film Polymer,Ambient Temperature,temperature_c,degC,False
+Vaisala,WXT536,Capacitive Thin Film Polymer,Ambient Relative Humidity,humidity_pct,%,False
+Vaisala,WXT536,Ultrasonic Anemometer,Wind Speed,wind_speed_ms,m/s,False
+Vaisala,WXT536,Ultrasonic Wind Direction Vane,Wind Direction,wind_direction_deg,deg,False
+QC Engine,Automated Validation,Rule-based Consistency & Physical Limits Check,Quality Control Flag,qc_flag,categorical,False
